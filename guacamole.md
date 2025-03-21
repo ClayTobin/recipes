@@ -3,3 +3,6 @@
 - avocado
 - cilantro
 - salt
+- lime
+- red onion
+- garlic
